@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Business App</string>
+
+    <string name="title">The Go Down Arts Centre</string>
+
+    <string name="description">The GoDown Arts Centre is home to Kenyan creativity in arts and media
+        and has contributed to the growth, recognition and visibility of local artist
+        facilitating collaborations from different disciplines
+        and parts of the world.</string>
+
+    <string name="website">www.thegodownartscentre.com</string>
+    <string name="phone">+254 726 992 200</string>
+    <string name="email">info@thegodownartscentre.com</string>
+    <string name="physical_address">Industrial Area, Nairobi</string>
+    <string name="operation_hours">9.00am - 5.00pm, Mon to Fri</string>
+
+    <string name="mabout">About : </string>
+    <string name="mphone">Phone : </string>
+    <string name="memail">Email : </string>
+    <string name="maddress">Address : </string>
+    <string name="mhours"> Hours : </string>
+</resources>
